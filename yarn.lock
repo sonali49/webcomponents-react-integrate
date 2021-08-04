@@ -10616,13 +10616,6 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
-scania-webcomponents@0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/scania-webcomponents/-/scania-webcomponents-0.0.6.tgz#04c965504c320d19ccb61c40726808b49c0274b1"
-  integrity sha512-Vhlt+479HkgfhP6CIhfSZvVibQIrRCwUWWpOnnHCopmMONVElrJoiRm8JKwenvJgoJvNhfKHsZHJxBMqZpYx6A==
-  dependencies:
-    "@stencil/core" "^2.6.0"
-
 scheduler@^0.20.2:
   version "0.20.2"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.20.2.tgz#4baee39436e34aa93b4874bddcbf0fe8b8b50e91"
@@ -12160,6 +12153,13 @@ web-vitals@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-1.1.2.tgz#06535308168986096239aa84716e68b4c6ae6d1c"
   integrity sha512-PFMKIY+bRSXlMxVAQ+m2aw9c/ioUYfDgrYot0YUa+/xa0sakubWhSDyxAKwzymvXVdF4CZI71g06W+mqhzu6ig==
+
+webcomponents-package@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/webcomponents-package/-/webcomponents-package-0.0.7.tgz#8b23538d152c3537d5ad1ed917abd3c08e7ed136"
+  integrity sha512-ApE2N/APTeUftIwW9nNpFZWMTl13gTMn4wlsXMDNF3JBt4nkk8iip+s3cDZKaRQko7kn93SwttTbw8xCLF9xzg==
+  dependencies:
+    "@stencil/core" "^2.6.0"
 
 webidl-conversions@^5.0.0:
   version "5.0.0"

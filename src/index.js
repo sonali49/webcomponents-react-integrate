@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/App';
 import reportWebVitals from './reportWebVitals';
-import { defineCustomElements } from 'scania-webcomponents/dist/loader';
+import { defineCustomElements } from 'webcomponents-package/dist/loader';
 
 ReactDOM.render(
   <React.StrictMode>
