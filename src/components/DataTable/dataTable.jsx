@@ -52,16 +52,16 @@ export const DataTable = ({ dataSet }) => {
   const list = '["Distance WC", "<= 200.00", "> 200.00"]';
   return (
     <>
-      <select onChange={filterTable}>
+      <select className="dropdown-list custom-select" onChange={filterTable}>
         <option value="Distance">Distance</option>
         <option value="<= 200.00">{"<= 200.00 km"}</option>
         <option value="> 200.00">{"> 200.00 km"}</option>
       </select>
       <dropdown-integrated-component
         reset-value={false}
-        selected-value="Distance WebComponents"
+        selected-value="Distance"
         data={list}
-        getChangeSelectedItems={(val) => filterTable(val)}
+        // getChangeSelectedItems={(val) => filterTable(val)}
       ></dropdown-integrated-component>
       <button type="link" onClick={handleReset}>
         Reset

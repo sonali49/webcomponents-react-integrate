@@ -12154,10 +12154,10 @@ web-vitals@^1.0.1:
   resolved "https://registry.yarnpkg.com/web-vitals/-/web-vitals-1.1.2.tgz#06535308168986096239aa84716e68b4c6ae6d1c"
   integrity sha512-PFMKIY+bRSXlMxVAQ+m2aw9c/ioUYfDgrYot0YUa+/xa0sakubWhSDyxAKwzymvXVdF4CZI71g06W+mqhzu6ig==
 
-webcomponents-package@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/webcomponents-package/-/webcomponents-package-0.0.7.tgz#8b23538d152c3537d5ad1ed917abd3c08e7ed136"
-  integrity sha512-ApE2N/APTeUftIwW9nNpFZWMTl13gTMn4wlsXMDNF3JBt4nkk8iip+s3cDZKaRQko7kn93SwttTbw8xCLF9xzg==
+webcomponents-package@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/webcomponents-package/-/webcomponents-package-0.0.9.tgz#68b05c6feddce710bde5067093410b0d985fc345"
+  integrity sha512-XA+Sal93SApSjshevU+7r/321QyA0KL5jEpkRUqCVTIKBycBzVW5nkn9EYkAeVc37lgFOTZGFcckH+YZbN+AKQ==
   dependencies:
     "@stencil/core" "^2.6.0"
 
